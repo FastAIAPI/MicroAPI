@@ -2,7 +2,7 @@
 name = 'MicroAPI'
 version = '0.0.0.dev0'
 
-description = 'FastAPI on low-power devices'
+description = 'FastAPI applications on low-power devices'
 
 license = 'MIT'
 
@@ -27,9 +27,13 @@ keywords = [
   'I.o.T.',
   'IoT',
 
+  'application',
+  'app',
+
   'low-power',
   'low power',
 ]
+
 classifiers = [
   'Development Status :: 3 - Alpha',
   # 'Development Status :: 4 - Beta',

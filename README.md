@@ -1,1 +1,1 @@
-# FastAPI on low-power devices
+# FastAPI applications on low-power devices
